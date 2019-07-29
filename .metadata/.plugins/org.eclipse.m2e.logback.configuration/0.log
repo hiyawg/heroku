@@ -602,3 +602,19 @@ Caused by: org.apache.maven.model.building.ModelBuildingException: 1 problem was
 2019-07-29 11:40:28,037 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2019-07-29 11:40:28,039 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-07-29 11:40:28,039 [Worker-28: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/admin/Desktop/Heroku/demo/src/test/resources
+2019-07-29 12:45:26,222 [Worker-38: Launching Executing clean in _Users_admin_Desktop_Heroku_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/admin/Desktop/Heroku/demo
+2019-07-29 12:45:26,222 [Worker-38: Launching Executing clean in _Users_admin_Desktop_Heroku_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-07-29 12:45:29,062 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-29 12:45:29,063 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-29 12:45:29,065 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-29 12:45:29,070 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-29 12:45:29,071 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/admin/Desktop/Heroku/demo/src/test/resources
+2019-07-29 12:46:22,801 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-07-29 12:49:02,899 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-07-29 12:49:11,663 [Worker-6: Launching demo (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/admin/Desktop/Heroku/demo
+2019-07-29 12:49:11,665 [Worker-6: Launching demo (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B compile
+2019-07-29 12:49:42,485 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-29 12:49:42,493 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2019-07-29 12:49:42,517 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-29 12:49:42,524 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-07-29 12:49:42,524 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/admin/Desktop/Heroku/demo/src/test/resources
